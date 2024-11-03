@@ -1,0 +1,74 @@
+{
+  "listdatacoffee": [
+    {
+      "id_kopi": 1,
+      "menu_kopi": "Caffè Latte",
+      "deskripsi_kopi": "Rich, full-bodied espresso in steamed milk, lightly topped with foam. A caffè latte is simply a shot or two of bold, tasty espresso with fresh, sweet steamed milk over it.",
+      "coffee_thumbnails": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/caffe_latte_thumbnail.png",
+      "coffee_poster": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/caffe_latte_poster.jpg"
+    },
+    {
+      "id_kopi": 2,
+      "menu_kopi": "Cappuccino",
+      "deskripsi_kopi": "Espresso with steamed milk, topped with a deep layer of foam.",
+      "coffee_thumbnails": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/cappuccino_thumbnail.png",
+      "coffee_poster": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/cappuccino_poster.jpg"
+    },
+    {
+      "id_kopi": 3,
+      "menu_kopi": "Caffè Mocha",
+      "deskripsi_kopi": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
+      "coffee_thumbnails": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/caffe_mocha_thumbnail.png",
+      "coffee_poster": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/caffe_mocha_poster.jpg"
+    },
+    {
+      "id_kopi": 4,
+      "menu_kopi": "Caramel Macchiato",
+      "deskripsi_kopi": "Espresso with bittersweet mocha sauce and steamed milk, topped with sweetened whipped cream. Delightful.",
+      "coffee_thumbnails": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/caramel_macchiato_thumbnail.png",
+      "coffee_poster": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/caramel_macchiato_poster.jpg"
+    },
+    {
+      "id_kopi": 5,
+      "menu_kopi": "Vanilla Sweet Cream Cold Brew",
+      "deskripsi_kopi": "Espresso combined with vanilla-flavoured syrup, milk and caramel sauce over ice. A Starbucks classic, chilled for a classic summer’s day. To our signature espresso we add a creamy mix of vanilla syrup and cold milk poured over ice; it’s then topped with our proprietary buttery caramel sauce. Sweet!",
+      "coffee_thumbnails": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/vanilla_sweet_cream_cold_brew_thumbnail.png",
+      "coffee_poster": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/vanilla_sweet_cream_cold_brew_poster.jpg"
+    },
+    {
+      "id_kopi": 6,
+      "menu_kopi": "Cold Brew",
+      "deskripsi_kopi": "Slow-steeped, small-batch and super smooth. To create our signature recipe, our team spent months experimenting with different brew times and coffee varietals. We specifically developed the Starbucks® Cold Brew Blend to heighten the rich, naturally sweet flavor created during the cold brewing process.",
+      "coffee_thumbnails": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/cold_brew_thumbnail.png",
+      "coffee_poster": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/cold_brew_poster.jpg"
+    },
+    {
+      "id_kopi": 7,
+      "menu_kopi": "Mango Passion Frappuccino",
+      "deskripsi_kopi": "A tropical mango and passionfruit infusion, perfectly blended with a fruity hibiscus tea and ice.",
+      "coffee_thumbnails": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/mango_passion_frappuccino_thumbnail.png",
+      "coffee_poster": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/mango_passion_frappuccino_poster.jpg"
+    },
+    {
+      "id_kopi": 8,
+      "menu_kopi": "Raspberry Currant Frappuccino",
+      "deskripsi_kopi": "Made with freshly brewed Teavana® tea, blended juice and ice.",
+      "coffee_thumbnails": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/raspberry_currant_frappuccino_thumbnail.png",
+      "coffee_poster": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/raspberry_currant_frappuccino_poster.jpg"
+    },
+    {
+      "id_kopi": 9,
+      "menu_kopi": "Coffee Frappuccino",
+      "deskripsi_kopi": "Starbucks® coffee is blended with nonfat milk and ice for a sip on the light side.",
+      "coffee_thumbnails": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/coffee_frappuccino_thumbnail.png",
+      "coffee_poster": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/coffee_frappuccino_poster.jpg"
+    },
+    {
+      "id_kopi": 10,
+      "menu_kopi": "Mocha Frappuccino",
+      "deskripsi_kopi": "Mocha sauce, Frappuccino® roast coffee, milk and ice all come together for a mocha flavor that'll leave you wanting more.",
+      "coffee_thumbnails": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/mocha_frappuccino_thumbnail.png",
+      "coffee_poster": "https://naufalalamsyah.github.io/2200763_NaufalAlamsyahRamanda_coffe-shop-data/mocha_frappuccino_poster.jpg"
+    }
+  ]
+}
